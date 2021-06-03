@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="dis.practica1.AppTest" time="0.045" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="dis.practica1.AppTest" time="0.044" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="15"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="D:\MIGUEL SALAS\Documents\UNI\CUARTO\DIS\Practica1_extraordinaria\practica\target\test-classes;D:\MIGUEL SALAS\Documents\UNI\CUARTO\DIS\Practica1_extraordinaria\practica\target\classes;C:\Users\Miguel Salas\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Miguel Salas\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="D:\MIGUEL SALAS\Documents\UNI\CUARTO\DIS\Practica1_extraordinaria\practica\target\test-classes;D:\MIGUEL SALAS\Documents\UNI\CUARTO\DIS\Practica1_extraordinaria\practica\target\classes;C:\Users\Miguel Salas\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Miguel Salas\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Miguel Salas\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\Miguel Salas\.m2\repository\org\json\json\20210307\json-20210307.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ES"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-15\bin"/>
-    <property name="sun.java.command" value="C:\Users\MIGUEL~1\AppData\Local\Temp\surefire5122318879033122183\surefirebooter17589187959478068405.jar C:\Users\Miguel Salas\AppData\Local\Temp\surefire5122318879033122183 2021-06-03T12-49-56_113-jvmRun1 surefire4756347779443542253tmp surefire_09583942930589221264tmp"/>
+    <property name="sun.java.command" value="C:\Users\MIGUEL~1\AppData\Local\Temp\surefire3020619232066004900\surefirebooter13892314745221210720.jar C:\Users\Miguel Salas\AppData\Local\Temp\surefire3020619232066004900 2021-06-03T12-58-59_288-jvmRun1 surefire7011113749945341797tmp surefire_012142073657295013497tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="D:\MIGUEL SALAS\Documents\UNI\CUARTO\DIS\Practica1_extraordinaria\practica\target\test-classes;D:\MIGUEL SALAS\Documents\UNI\CUARTO\DIS\Practica1_extraordinaria\practica\target\classes;C:\Users\Miguel Salas\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Miguel Salas\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="surefire.test.class.path" value="D:\MIGUEL SALAS\Documents\UNI\CUARTO\DIS\Practica1_extraordinaria\practica\target\test-classes;D:\MIGUEL SALAS\Documents\UNI\CUARTO\DIS\Practica1_extraordinaria\practica\target\classes;C:\Users\Miguel Salas\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Miguel Salas\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Miguel Salas\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\Miguel Salas\.m2\repository\org\json\json\20210307\json-20210307.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Miguel Salas"/>
     <property name="user.language" value="es"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\MIGUEL~1\AppData\Local\Temp\surefire5122318879033122183\surefirebooter17589187959478068405.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\MIGUEL~1\AppData\Local\Temp\surefire3020619232066004900\surefirebooter13892314745221210720.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="15+36-1562"/>
